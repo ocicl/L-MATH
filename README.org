@@ -1,0 +1,10 @@
+* L-MATH
+
+Mathematics for geometric applications
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/TheRiver/L-MATH.git   |
+| commit  | 81f43d2  |
+| systems | L-MATH |
+|---------+-------------------------------------------|
+
